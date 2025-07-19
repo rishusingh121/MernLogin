@@ -2,7 +2,7 @@
 Complete mern login setup using express and mongodb
 
 
-
+current node version   22.15.0
 
 download or clone the repo
 install node modules in both server and client forder
